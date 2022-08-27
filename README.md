@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dahlia2001
-- 👀 I’m interested in web development, machine learning and data analytics
-- 🌱 I’m currently learning full stack web development
+Hi, I’m @dahlia2001
+I’m interested in web development, machine learning and data analytics
+I’m currently learning full stack web development
 
 
 <!---
